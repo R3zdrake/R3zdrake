@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my personal repo where i dump all my notes related to Cybersecurity,Tech HOWTO Guide, Study and Exam related.  
+My personal repo where i dump all my notes related to Cybersecurity,Tech HOWTO Guide, Study and Exam related.  
 
 
 
