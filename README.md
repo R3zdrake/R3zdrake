@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Afrezal Karim
-This is my personal repo where i dump all my notes related to Cybersecurity, scripts, Tech HOWTO Guide, Study and Exam related.  
+I'm Afrezal Karim, this is my personal repo where i dump all my notes related to Cybersecurity, scripts, Tech HOWTO Guide, Study and Exam related.  
 
 
 
